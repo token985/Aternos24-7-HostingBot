@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "tokensmpseas2.aternos.me",
-    "port": 62213,
-    "version": "25832",
+    "port": 25832,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
